@@ -1,5 +1,5 @@
 # react-native-redux-boilerplate  
-https://gitlab.com/aj_zozakiewicz/react-native-redux-boilerplate  
+https://github.com/ajzozakiewicz/react-native-redux-boilerplate  
 
 A React Native application that implements Redux, as well as a few other heplful starter components.  
 
@@ -16,7 +16,7 @@ A React Native application that implements Redux, as well as a few other heplful
 First, clone the repo locally using [SourceTree](https://www.sourcetreeapp.com/) or via command line:
 
 ```bash
-$ git clone https://gitlab.com/aj_zozakiewicz/react-native-redux-boilerplate.git
+$ git clone https://github.com/ajzozakiewicz/react-native-redux-boilerplate
 ```
 
 Then, install all dependencies:
@@ -55,7 +55,7 @@ Now that you have the app running in the iPhone simulator, press command + D to 
 
 When you are running against the development server in react-native, the simulator points to the a localhost server which will serve the  
 application's JavaScript bundle so that it can be reloaded while the app is still running... Enabling HMR.  
-  
+
 When you switch to release, your React Native app will point to and use the local JavaScript bundle that is packaged in your xcode project.  
 This allows you to run the application stand alone and disconnected from your dev server. It also removes the debug menu.
 
