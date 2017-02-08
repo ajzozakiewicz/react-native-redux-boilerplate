@@ -16,7 +16,7 @@ A React Native application that implements Redux, as well as a few other helpful
 First, clone the repo locally using [SourceTree](https://www.sourcetreeapp.com/) or via command line:
 
 ```bash
-$ git clone https://github.com/ajzozakiewicz/react-native-redux-boilerplate
+$ git clone https://github.com/northwesternmutual/react-native-redux-boilerplate
 ```
 
 Then, install all dependencies:
