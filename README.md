@@ -1,7 +1,7 @@
 # react-native-redux-boilerplate  
-https://github.com/ajzozakiewicz/react-native-redux-boilerplate  
+https://github.com/northwesternmutual/react-native-redux-boilerplate  
 
-A React Native application that implements Redux, as well as a few other heplful starter components.  
+A React Native application that implements Redux, as well as a few other helpful starter components.  
 
 - Flux Implementation: [Redux](https://github.com/reactjs/redux) & [Redux Thunk](https://github.com/gaearon/redux-thunk)  
 - Constants: [keymirror](https://github.com/STRML/keyMirror)  
